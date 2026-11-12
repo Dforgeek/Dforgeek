@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Dforgeek
-- 👀 I'm trying to find myself in programming, but:
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me 1812stepanovsky@gmail.com
 
 <!---
